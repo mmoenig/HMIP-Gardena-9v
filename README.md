@@ -19,12 +19,12 @@
 
 Die Steuerung basiert auf:
 
-* [Homematic IP HMIP-PCBS-BAT als Funkmodul](../hardware/hmippcbsbat/hmippcbsbat.md)
-* [Gardena 9V Ventil](../hardware/gardena/gardena.md)
-* [ATtiny85 als Steuerlogik](../hardware/ATtiny85/attiny85.md) 
-* [DRV8833 als H-Brücke](../hardware/drv8833/drv8833.md)
-* [MT3608 als Step-up Wandler](../hardware/mt3608/mt3608.md)
-* [Spelsberg Abox 025 als Gehäuse](../hardware/abox025/abox025.md)
+* [Homematic IP HMIP-PCBS-BAT als Funkmodul](./hardware/hmippcbsbat/hmippcbsbat.md)
+* [Gardena 9V Ventil](./hardware/gardena/gardena.md)
+* [ATtiny85 als Steuerlogik](./hardware/ATtiny85/attiny85.md) 
+* [DRV8833 als H-Brücke](./hardware/drv8833/drv8833.md)
+* [MT3608 als Step-up Wandler](./hardware/mt3608/mt3608.md)
+* [Spelsberg Abox 025 als Gehäuse](./hardware/abox025/abox025.md)
 * 4× AA Batterieversorgung (NiMH)
 
 ## Materialliste
